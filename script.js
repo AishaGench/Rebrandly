@@ -1,5 +1,5 @@
 // Information to reach API
-const apiKey = '0b3789904f7e484b9e28f249b191897c';
+const apiKey = '<your API address';
 const url = 'https://api.rebrandly.com/v1/links';
 const shortenButton = document.getElementById('shorten');
 const inputField = document.getElementById('input');
